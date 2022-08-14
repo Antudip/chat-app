@@ -27,4 +27,4 @@ io.on('connection', socket => {
    
 })
 
-servidor.listen(3000, ()=>{console.log('servidor inicializado')});
+servidor.listen(3001, ()=>{console.log('servidor inicializado')});
